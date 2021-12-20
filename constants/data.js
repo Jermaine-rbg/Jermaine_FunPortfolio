@@ -1,11 +1,11 @@
 const userData = {
   githubUsername: "manuarora700",
-  name: "Manu Arora",
+  name: "Jermaine Bailey",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
+  email: "brandnetictechnologies@.com",
   phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  address: "Atlanta, Ga.",
   projects: [
     {
       title: "Tailwind Master Kit",
