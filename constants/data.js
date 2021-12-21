@@ -104,7 +104,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://docs.google.com/document/d/10k5ENlZQeXs6GRiMpu0bPnk5pscTUOHFKlkDduhoRB0/edit",
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
