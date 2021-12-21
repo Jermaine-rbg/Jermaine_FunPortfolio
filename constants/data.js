@@ -8,45 +8,36 @@ const userData = {
   address: "Atlanta, Ga.",
   projects: [
     {
-      title: "React Todo Project",
+      title: "Todo Project - React",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/Screenshot1.jpeg",
     },
     {
-      title: "Brandnetic Technologies",
+      title: "Brandnetic Technologies - Bootstrap",
       link: "https://www.brandnetictechnologies.com",
       imgUrl: "/Screenshot2.png",
     },
     {
-      title: "ComfySloth",
+      title: "ComfySloth - React",
       link: "https://comfyslothloft.netlify.app",
       imgUrl: "/Screenshot3.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "GitHub User - JavaScript",
+      link: "https://git-hub-user.netlify.app",
+      imgUrl: "/Screenshot4.png",
     },
     {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      title: "Post-It-Notes - React",
+      link: "https://post-it-react-notes.netlify.app/",
+      imgUrl: "/Screenshot5.png",
     },
     {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
+      title: "Chatapp - JavaScript Socket.Io",
+      link: "https://github.com/Jermaine-rbg/Chat_App",
+      imgUrl: "/Screenshot6.png",
     },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    
   ],
   about: {
     title:
