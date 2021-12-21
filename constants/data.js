@@ -106,11 +106,9 @@ const userData = {
   resumeUrl:
     "https://docs.google.com/document/d/10k5ENlZQeXs6GRiMpu0bPnk5pscTUOHFKlkDduhoRB0/edit",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
-    facebook: "https://facebook.com/",
+    linkedin: "https://www.linkedin.com/in/jermaine-bailey-727830187/",
+    github: "https://github.com/Jermaine-rbg",
   },
 };
 
