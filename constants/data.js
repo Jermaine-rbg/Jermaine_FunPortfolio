@@ -1,9 +1,9 @@
 const userData = {
-  githubUsername: "manuarora700",
+  githubUsername: "Jermaine-rbg",
   name: "Jermaine Bailey",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "brandnetictechnologies@.com",
+  avatarUrl: "/Portfoliopic.jpeg",
+  email: "brandnetictechnologies@gmail.com",
   phone: "+91 9587738861",
   address: "Atlanta, Ga.",
   projects: [
