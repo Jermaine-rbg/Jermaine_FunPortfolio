@@ -8,19 +8,19 @@ const userData = {
   address: "Atlanta, Ga.",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "React Todo Project",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/Screenshot.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Brandnetic Technologies",
+      link: "https://www.brandnetictechnologies.com",
+      imgUrl: "/Screenshot2.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      title: "ComfySloth",
+      link: "https://comfyslothloft.netlify.app",
+      imgUrl: "/Screenshot3.png",
     },
     {
       title: "CovidRescue",
