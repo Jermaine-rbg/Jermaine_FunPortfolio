@@ -9,8 +9,8 @@ const userData = {
   projects: [
     {
       title: "Todo Project - React",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/Screenshot1.png",
+      link: "https://todo-react-app-jermaine-rbg.vercel.app/",
+      imgUrl: "/Screenshot.png",
     },
     {
       title: "Brandnetic Technologies - Bootstrap",
