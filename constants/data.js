@@ -10,7 +10,7 @@ const userData = {
     {
       title: "Todo Project - React",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/Screenshot1.jpeg",
+      imgUrl: "/Screenshot1.png",
     },
     {
       title: "Brandnetic Technologies - Bootstrap",
