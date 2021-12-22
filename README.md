@@ -13,25 +13,6 @@
 
 I've kept the pages as simple as possible. Only the required sections are included with minimal content.
 
-## Landing
-
-![Hompage](public/Screenshot1.png)
-
-## About
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
-
-## Projects
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
-
-## Experience
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
-
-## Contact
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
 
 # Tech Stack
 
