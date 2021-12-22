@@ -15,7 +15,7 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ## Landing
 
-![Hompage](Screenshot1.png)
+![Hompage](public/Screenshot1.png)
 
 ## About
 
