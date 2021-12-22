@@ -151,7 +151,7 @@ export default function Contact() {
               className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
               name="name"
             />
-            <label htmlFor="email" className="text-sm text-gray-600 mx-4 mt-4">
+            <label htmlFor="Baileyjobsatl@gmail.com" className="text-sm text-gray-600 mx-4 mt-4">
               Email
             </label>
             <input

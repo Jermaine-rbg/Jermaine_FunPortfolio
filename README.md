@@ -1,9 +1,5 @@
 ## Portfolio Website For Jermaine Bailey 💯
 
-**UPDATE:**
-
-
-![HomeGif](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/websitegif.gif)
 
 # Features
 
@@ -19,7 +15,7 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ## Landing
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
+![Hompage](Screenshot1.png)
 
 ## About
 
