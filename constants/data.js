@@ -56,7 +56,7 @@ const userData = {
       company: "Brandnetic Technologies",
       year: "2021",
       companyLink: "https://www.brandnetictechnologies.com/",
-      desc: "Rebranded Brandnetic Technologies in 2021 - it was oringinally formed in 2016 as Social Tech Marketing Solutions. Helping small businesses build thier brand by using technology.",
+      desc: "Rebranded Brandnetic Technologies in 2021 - it was oringinally formed in 2016 as Social Tech Marketing Solutions. Helping small businesses build their brand by using technology.",
     },
     {
       title: "Full Stack Web Development Bootcamp",
