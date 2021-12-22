@@ -66,7 +66,7 @@ const userData = {
       desc: "Software engineering training program covering full-stack development including, but not limited to JavaScript, including an emphasis on cutting-edge frameworks like React/Redux and server-side technologies including Node.js, Express, and PostgreSQL.",
     },
     {
-      title: "Lnadscape Designer",
+      title: "Landscape Designer",
       company: "Cultivators Design and Landscape",
       year: "2017-2021",
       companyLink: "",
