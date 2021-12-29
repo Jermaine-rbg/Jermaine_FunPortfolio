@@ -33,7 +33,7 @@ const userData = {
       imgUrl: "/Screenshot5.png",
     },
     {
-      title: "Chatapp - JavaScript Socket.Io",
+      title: "Chatapp - JavaScript & Socket.Io",
       link: "https://github.com/Jermaine-rbg/Chat_App",
       imgUrl: "/Screenshot6.png",
     },
