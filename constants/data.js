@@ -45,7 +45,7 @@ const userData = {
     description: [
       `I've been coding for a year and half now, self taught for a year. I didn't know what full-stack meant at that time until after doing intensive research.`,
       `After learning HTML and struggling with CSS, heading into Javascript I finally attended Digital Crafts a top-rated Full Stack Bootcamp located here in Atlanta.`,
-      `During my time in bootcamp I learned the following tech stack, HTML CSS, JavaScript, React, Node.js, Express, and PostgresSQL folowing with self taught in Next.Js, Bootstrap, TailwindCSS, databases Firebase, MongoDb, SupaBase with acquiring some basic fundamamentals in AWS, Netlify and Varcel cloud deployment technology. I consider myself focus driven, eager to learn more and a well balanced team player.`,
+      `During my time in bootcamp I learned the following tech stack, HTML CSS, JavaScript, React, Node.js, Express, and PostgresSQL folowing with self taught in Next.Js, Bootstrap, TailwindCSS, databases Firebase, MongoDB, SupaBase with acquiring some basic fundamamentals in AWS, Netlify and Varcel cloud deployment technology. I consider myself focus driven, eager to learn more and a well balanced team player.`,
     ],
     currentProject: "Front-End Development",
     currentProjectUrl: "https://trio.dev/blog/front-end-technologies",
