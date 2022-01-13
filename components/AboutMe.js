@@ -68,15 +68,7 @@ export default function AboutMe() {
               <div className="flex flex-row justify-start items-center ">
                 
               </div>
-              <div className="flex flex-row justify-start items-center">
-                <a
-                  href={userData.socialLinks.twitter}
-                  className="flex flex-row items-center space-x-4 group"
-                >
-                  <div className="my-4">&rarr;</div>
-                  
-                </a>
-              </div>
+              
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.github}
