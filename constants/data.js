@@ -56,7 +56,7 @@ const userData = {
       company: "Brandnetic Technologies",
       year: "2021",
       companyLink: "https://www.brandnetictechnologies.com/",
-      desc: " I am a digital marketing specialist with six years experience negotiating with clients budgets and collaborating with the clients to come up with effective business solutions using social media and data-driven analytics. <br> Implementing a good customer digital experience by improving the user interface, mobile responsiveness and design, communication methods across all platforms such as website and social media channels.",
+      desc: " I am a digital marketing specialist with six years experience negotiating with clients budgets and collaborating with the clients to come up with effective business solutions using social media and data-driven analytics. Implementing a good customer digital experience by improving the user interface, mobile responsiveness and design, communication methods across all platforms such as website and social media channels.",
     },
     {
       title: "Full Stack Web Development Bootcamp",
