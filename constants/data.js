@@ -45,7 +45,7 @@ const userData = {
     description: [
       `I’m interested in Front End Development so I’ve emphasized my learnings on the MERN Stack.`,
       `After learning HTML and struggling with CSS, heading into Javascript I finally attended Digital Crafts a top-rated Full Stack Bootcamp located here in Atlanta.`,
-      `During my time in bootcamp I learned the following tech stack, HTML CSS, JavaScript, React, Node.js, Express, and PostgresSQL, self taught Next.Js, Bootstrap, TailwindCSS, databases Firebase, MongoDB, SupaBase with acquiring some basic fundamamentals in AWS, cloud deployment technology. I consider myself focus driven, eager to learn more and a well balanced team player.`,
+      `During my time in bootcamp I learned the following tech stack, HTML CSS, JavaScript, React, Node.js, Express, and PostgresSQL, self taught Next.Js, databases Firebase and MongoDB, with acquiring some basic fundamamentals in AWS cloud deployment technology. I consider myself focus driven, eager to learn more and a well balanced team player.`,
     ],
     currentProject: "Front-End Development",
     currentProjectUrl: "https://trio.dev/blog/front-end-technologies",
