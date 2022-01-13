@@ -91,7 +91,6 @@ const userData = {
   resumeUrl:
     "https://docs.google.com/document/d/10k5ENlZQeXs6GRiMpu0bPnk5pscTUOHFKlkDduhoRB0/edit",
   socialLinks: {
-    twitter: "",
     linkedin: "https://www.linkedin.com/in/jermaine-bailey-727830187/",
     github: "https://github.com/Jermaine-rbg",
   },
