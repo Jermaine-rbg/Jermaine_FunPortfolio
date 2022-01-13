@@ -84,7 +84,7 @@ const userData = {
       company: "Herzing University",
       year: "2005-2006",
       companyLink: "https://www.herzing.edu/",
-      desc: "Obtained a Associate Degree.",
+      desc: "I studied Business Administration with a comprehensive knowledge of payables, receivables, office administration, and human resources. Proficient in computer productivity software, departmental budgeting procedures, and general management skills. Possesses a strong understanding of the relationship between office personnel and the necessary tools for maximum productivity.",
     },
     
   ],
