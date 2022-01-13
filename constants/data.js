@@ -52,7 +52,7 @@ const userData = {
   },
   experience: [
     {
-      title: "Founder",
+      title: "Founder/Freelancer",
       company: "Brandnetic Technologies",
       year: "2021",
       companyLink: "https://www.brandnetictechnologies.com/",
