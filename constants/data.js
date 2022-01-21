@@ -3,7 +3,7 @@ const userData = {
   name: "Jermaine Bailey",
   designation: "Full-Stack Developer",
   avatarUrl: "/Portfoliopic.jpeg",
-  email: "brandnetictechnologies@gmail.com",
+  email: "jermainebaileysoftwareengineer@gmail.com",
   phone: "(404)337-0967",
   address: "Atlanta, Ga.",
   projects: [
