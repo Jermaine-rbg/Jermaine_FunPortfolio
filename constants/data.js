@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "Jermaine-rbg",
   name: "Jermaine Bailey",
-  designation: "Software Engineer",
+  designation: "Frontend Software Engineer",
   avatarUrl: "/Portfoliopic.jpeg",
   email: "jermainebaileysoftwareengineer@gmail.com",
   phone: "(404)337-0967",
