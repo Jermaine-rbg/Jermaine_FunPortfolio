@@ -16,7 +16,7 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 # Tech Stack and Deployment
 
-The website is built in my favourite Tech Stack and deployed on [Vercel](https://vercel.com)
+The website is built in my favorite Tech Stack and deployed on [Vercel](https://vercel.com)
 
 - [Next.js](https://nextjs.org) for building React Components.
 - [tailwindcss](https://tailwindcss.com) for styling.
