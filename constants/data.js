@@ -59,6 +59,13 @@ const userData = {
       desc: " I am a digital marketing specialist with six years experience negotiating with clients budgets and collaborating with the clients to come up with effective business solutions using social media and data-driven analytics. Implementing a good customer digital experience by improving the user interface, mobile responsiveness and design, communication methods across all platforms such as website and social media channels.",
     },
     {
+      title: "Full Stack Software Engineering Program",
+      company: "Columbia University Business School",
+      year: "2022",
+      companyLink: "https://centerforjustice.columbia.edu/justicethroughcode",
+      desc: "Justice Through Code is a code intensive and interpersonal skills course for justice involved individuals that teaches the fundamentals of Python, Django Framework and Computer Science. ",
+    },
+    {
       title: "Full Stack Web Development Bootcamp",
       company: "Digital Crafts",
       year: "2021",
