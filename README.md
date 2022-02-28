@@ -4,7 +4,7 @@
 # Features
 
 - Responsive layout, works well on both Mobile and Desktop
-- Dark mode support. Click crescent moon to toggle dark mode and light mode.
+- Dark mode support. Click the crescent moon to toggle dark mode and light mode.
 - Clear React components and tailwind styling.
 - Exact sections that a developer needs to showcase their skills.
 - Clear call to actions.
