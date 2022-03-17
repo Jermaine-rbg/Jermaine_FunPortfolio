@@ -77,7 +77,7 @@ const userData = {
       company: "Cultivators Design and Landscape",
       year: "2017-2021",
       companyLink: "",
-      desc: "Used landscape design software to make presentations to clients at multi million dollar homes in the Atlanta area.",
+      desc: "Experienced Landscape Designer with several years of experience working with clients to create and enhance the aesthetics and function of natural outdoor spaces. Bringing forth exceptional design and horticulture skills, and a true ability to understand and strive toward the vision of a client.",
     },
     {
       title: "Director of Marketing and Business Development",
