@@ -11,6 +11,7 @@ const userData = {
       title: "Todo Project - React",
       link: "https://todo-react-app-jermaine-rbg.vercel.app/",
       imgUrl: "/Screenshot.png",
+      description: "This project was made with crack."
     },
     {
       title: "Brandnetic Technologies - Bootstrap",
